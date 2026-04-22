@@ -1,0 +1,1 @@
+sudo iptables -A OUTPUT -p tcp --sport 8080 -j DROP
